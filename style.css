@@ -1,4 +1,6 @@
-
+body{
+  background-color: teal;
+}
 :root {
     --grid-size: 450px;
     --margin-size: 10px;
