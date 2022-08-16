@@ -1,3 +1,5 @@
+/* (K.F) I didn't do anything but change the background color try to understand what each function does and how to format it and I slightly have it down but it's still going to take some time & work for me to fully understand and have it down to a "T" */
+
 const X_IMAGE_URL = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/1083533/x.png';
 const O_IMAGE_URL = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/1083533/circle.png';
 
